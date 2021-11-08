@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fuck2
+=======
+i lost my underweare
+>>>>>>> cherry-branch
